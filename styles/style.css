@@ -117,6 +117,10 @@ ul {
   list-style-position: outside;
   padding-left: 18px;
 }
+.link--news p {
+  margin-top: 60px !important;
+  color: blue !important;
+}
 
 footer {
   background-color: #4c4c4c;
