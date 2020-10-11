@@ -27,15 +27,24 @@ p {
   color: #9b9b9b;
   margin-bottom: 40px;
 }
+.atlas--a {
+  margin: 0px;
+  color: #000000;
+}
+.atlas--a:hover {
+  color: #9b9b9b;
+}
 .pic--0 {
   margin-left: 0px;
 }
 figcaption {
   font-size: 14px;
+  margin-left: 0px;
 }
 .sixth--p {
   color: #9b9b9b;
   font-size: 14px;
+  margin-left: 0;
 }
 .cnn--bold {
   margin: 0px;
